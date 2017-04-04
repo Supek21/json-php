@@ -1,0 +1,35 @@
+{
+"dane":
+{
+"ksiazka": [
+{
+"isbn":"83-89501-46-5",
+"tytul":"Ameryka w mroku",
+"autorzy":"Józef Kozielecki",
+"rok":"2005",
+"cena":"20,00"
+},
+{
+"isbn":"83-88149-72-5",
+"tytul":"Bycie sobą jako ideał",
+"autorzy":"Małgorzata Malicka",
+"rok":"2002",
+"cena":"15,00"
+},
+{
+"isbn":"83-89501-36-8",
+"tytul":"Kultura",
+"autorzy":"Stefan Czarnowski",
+"rok":"2005",
+"cena":"22,00"
+},
+{
+"isbn":"83-89501-51-1",
+"tytul":"Wychowanie funkcjonalne",
+"autorzy":"Edouard Claparede",
+"rok":"2006",
+"cena":"23,00"
+}
+]
+}
+} 
